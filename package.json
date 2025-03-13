@@ -1,0 +1,32 @@
+{
+  "name": "dineswift",
+  "version": "1.0.0",
+  "description": " Deliciously Fast, Freshly Delivered",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "food-delivery",
+    "dineswift",
+    "restaurant",
+    "online-ordering"
+  ],
+  "author": "Harsh Vardhan Awasthi",
+  "license": "ISC",
+  "repository": "git+https://github.com/HarshVardhanAwasthi/DineSwift.git",
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "browserslist": "^4.24.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
